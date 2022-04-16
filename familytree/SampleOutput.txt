@@ -1,0 +1,20 @@
+Printing(Saving) Format is:
+Earlisest Ancestor
+        Child
+            Child-of-Child 
+        Sibling-Child
+            child-of-Child      
+
+Sample Output:          
+Alex Mercer
+        Omer Ali
+                Sarah John
+                        Erik Muller
+                        Misa Erik
+        Alferd David
+                Law Anderson
+                        Luffy Jesus
+                Little Princess
+        June Lisa
+
+
